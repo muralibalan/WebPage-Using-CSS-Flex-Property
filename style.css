@@ -1,71 +1,50 @@
-*{
-    margin: opx;
-    padding: 0px;
-    /* background-color: #ffc400; */
-}
 .totalCondainer{
     width: 60%;
-    height: auto;
-    border: 2px solid black;
     margin-left: 20%;
+    padding-top: 3px;
     background-color: white;
 }
 .head{
     width: 98%;
     height: 150px;
-    border: 1px solid black;
     background-color: black;
-    margin: 1%;
+    margin: 10px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
 }
 #title{
-    background-color: black;
     color:#ffc400;
     font-size: 40px;
-    position:relative;
-    top: 50px;
-    left: 50px;
 }
 #headWrite{
-    background-color: black;
     color:#ffc400;
     font-size: 20px;
-    position:relative;
-    top: 50px;
-    left: 250px;
 }
 .navigation{
     width: 98%;
     height: 45px;
-    border: 1px solid black;
-    background-color: black;
+    background-color: black; 
     margin: 1%;
     display: flex;
+    justify-content:flex-start;
 }
 .link{
     text-decoration: none;
-    width: 120px;
-    height: auto;
+    width: 140px;
     text-align: center;
     border-right: 2px solid white ;
     color: white;
     padding-top: 10px;
 }
 .condainer{
-    display: block;
+    padding-top: 20px;
+    margin-left: 40px;
 }
 .content{
-    padding: 0px 50px 0px 50px;
+    width: 70%;
 }
-.subHeading{
-    font-size: 40px;
-}
-.footerbox{
-    width: 98%;
-    height: 45px;
-    border: 1px solid black;
-    background-color: black;
-    margin: 1%;
-    color: white;
-    text-align: center;
+.content2{
+    padding: 20px;
 }
 

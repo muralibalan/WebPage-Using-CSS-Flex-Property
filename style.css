@@ -1,7 +1,7 @@
 .totalCondainer{
-    width: 60%;
+    width: 70%;
     height: 770px;
-    margin-left: 20%;
+    margin-left: 15%;
     padding-top: 3px;
     background-color: white;
 }
@@ -29,7 +29,7 @@
 .navigation{
     height: 45px;
     background-color: black; 
-    margin: 1%;
+    margin: 10px;
     display: flex;
 }
 .link{
@@ -45,9 +45,13 @@
     margin-left: 40px;
 }
 .content{
-    width: 70%;
+    width: 60%;
+    padding-top: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.content2{
+.contentBox{
+   
     padding: 20px;
+    display: block;
 }
 

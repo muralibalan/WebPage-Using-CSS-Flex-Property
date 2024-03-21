@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
+    background-color:  #ffc400;
 }
 .bodyContainer{
     width: 100%;
@@ -29,9 +30,9 @@ body{
     padding-left: 35px;
     font-size: 50px;
 }
-#headWrite{
+.headWrite{
     color:#ffc400;
-    font-size: 35px;
+    font-size: 33px;
     padding-right: 35px;
 }
 .navigation{
@@ -50,7 +51,7 @@ body{
     font-size: 20px;
 }
 .contentBox{
-    padding: 20px 0px 0px 45px ;
+    padding: 22px 0px 0px 45px ;
 }
 .contentTitle{
     font-size: 40px;
